@@ -2,7 +2,7 @@
 
 Submitted by: **Agrika Gupta**
 
-This web app: **displays the current best selling young adult books**
+This web app: **displays best selling young adult books**
 
 Time spent: 4 hours spent in total
 
