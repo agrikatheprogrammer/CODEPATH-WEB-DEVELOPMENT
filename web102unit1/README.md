@@ -37,6 +37,9 @@ Here's a walkthrough of implemented required features:
 
 GIF created with ScreenToGif
 
+## Notes
+
+No challenges.
 
 ## License
 
