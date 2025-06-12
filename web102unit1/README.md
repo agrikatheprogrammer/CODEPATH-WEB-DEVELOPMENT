@@ -2,7 +2,7 @@
 
 Submitted by: **Agrika Gupta**
 
-This web app: **displays best selling young adult books with a synopsis a link to find sources to read it and obtain reviews (Goodreads)**
+This web app: **displays best selling young adult books with a synopsis and a link to find sources to read it and obtain reviews (Goodreads)**
 
 Time spent: 4 hours spent in total
 
