@@ -4,7 +4,7 @@ Submitted by: **Agrika Gupta**
 
 This web app: **displays the current best selling young adult books**
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
