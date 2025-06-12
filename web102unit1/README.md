@@ -2,7 +2,7 @@
 
 Submitted by: **Agrika Gupta**
 
-This web app: **displays best selling young adult books with a book cover, a synopsis and a link to find sources to read it and obtain reviews (Goodreads)**
+This web app: **displays best selling young adult books with each book cover's image, a synopsis and a link to find sources to read it and obtain reviews (Goodreads)**
 
 Time spent: 4 hours spent in total
 
