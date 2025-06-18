@@ -1,40 +1,49 @@
-Course Format
-This course teaches intermediate web development in a project-based format over a 10-unit period. Each unit builds on the skills and knowledge developed in the previous weeks.
+💻 Intermediate Web Development Course
+📘 Course Format
+This course teaches intermediate web development in a project-based format over a 10-unit period. Each unit builds on the skills and knowledge developed in previous weeks.
 
-Each unit will consist of:
+Each unit includes:
 
-2 Hours of In-Class Time, consisting of:
-Interactive Lecture: An instructor-led discussion of this unit's topics and how they apply to real-world Web Development.
-Estimated time: 30-60 minutes (synchronous)
-Unit Lab: Each unit, you will get hands-on practice by working through a lab assignment that covers the concepts taught in the lecture. This is meant to be done synchronously so that you can talk with peers and your instructors/TAs while working through them for assistance! While the lab is designed to be completed during the session, you may optionally work outside of class to add stretch features to your website.
-Estimated time: 1+ hours (synchronous)
-Unit Project: Now that you've had practice implementing the concepts for this unit in the lab, you'll get the chance to practice on your own! Each week, you'll build a website similar to the one you build in the lab, outside of class.
-Estimated time: 5-10 hours (asynchronous)
-Throughout the 10 units of the course, you will learn and practice the skills you'll need to build your final project. The final project will be a two-unit project that you will have class time for in Units 8 & 9. While you'll have time to work on the project in class, you may have to work outside of class to complete your website. The last day of class during Unit 10 is reserved for Demo Day, when you'll get to showcase your completed websites!
+⏱️ 2 Hours of In-Class Time
+🧠 Interactive Lecture
+Instructor-led discussion of each unit’s topics and real-world web development applications.
+Estimated time: 30–60 minutes (synchronous)
 
-Unit Overview
-Unit	Coursework	Content Description	Student Work
-1	Topic: Diving Into React	Concepts: React Basics, Introducing JSX, Functional Components, Props	Lab: Timetabled
-Project: Community Board
-2	Topic: Creating an Interactive Frontend	Concepts: State, Hooks: useState(), Events: onClick(), GitHub Basics	Lab: Samosa Selector
-Project: Pair Cards Pt. 1
-3	Topic: Responding to Complex User Input	Concepts: Form Handling, Arrays as State, Events within Nested Components	Lab: On My Grind
-Project: Pair Cards Pt. 2
-4	Topic: C3	---	---
-5	Topic: API Introduction	Concepts: HTTP Get Requests, Async/Await	Lab: Cap
-Project: Veni Vici
-6	Topic: Using Real-World Data	Concepts: Using APIs with React, Component Lifecycle, Conditional Rendering, Using filter() and map()	Lab: CryptoHustle Lite
-Project: Data Dashboard Pt.1
-7	Topic: Implementing Navigation	Concepts: React Router, Constructing a Detail View	Lab: CryptoHustle Pro
-Project: Data Dashboard Pt.2
-8	Topic: Connecting to a Database	Concepts: HTTP Requests, Create, Read, Update, and Delete, Post/Patch and Delete	Lab: Bet
-Project: Crewmates
-9	Topic: Going Live with Your Website	Concepts: Deployment	Lab: None
-Project: Final Project
-10	Topic: Demo Day!!! 🖥️	Concepts: Show off your website by presenting to your peers!	Lab: None
-Project: Celebrate your hard work! tada
+🛠️ Unit Lab
+Hands-on coding practice during class. Collaborate with peers and instructors while working through key concepts.
+Estimated time: 1+ hour (synchronous)
 
-Projects
-Although lab assignments are intended for practice and will not be graded, the projects for each unit will be graded. In total, there are 7 lab assignments, 7 projects, and 1 final project.
+🚀 Unit Project
+Build a mini-project independently, reinforcing the concepts through practical implementation.
+Estimated time: 5–10 hours (asynchronous)
 
-Specific due dates will be posted on your course's project page.
+🏁 Final Project
+In Units 8 & 9, you'll begin work on your final project. You’ll have in-class time to build, but may need to work independently as well. Unit 10 concludes with Demo Day, where you’ll showcase your completed project!
+
+📆 Unit Overview
+Unit	Topic	Key Concepts	Lab	Project
+1	Diving Into React	React Basics, JSX, Functional Components, Props	Timetabled	Community Board
+2	Creating an Interactive Frontend	useState, Event Handling (onClick), GitHub Basics	Samosa Selector	Pair Cards Pt. 1
+3	Responding to Complex User Input	Forms, Arrays in State, Events in Nested Components	On My Grind	Pair Cards Pt. 2
+4	C3 (Coming Soon)	—	—	—
+5	API Introduction	HTTP GET Requests, async/await	Cap	Veni Vici
+6	Using Real-World Data	APIs in React, Component Lifecycle, Conditional Rendering, filter() & map()	CryptoHustle Lite	Data Dashboard Pt. 1
+7	Implementing Navigation	React Router, Detail Views	CryptoHustle Pro	Data Dashboard Pt. 2
+8	Connecting to a Database	CRUD (Create, Read, Update, Delete), POST, PATCH, DELETE	Bet	Crewmates
+9	Going Live with Your Website	Deployment Strategies	—	Final Project
+10	Demo Day!!! 🖥️	Present your final website to your peers!	—	🎉 Celebrate your work! 🎉
+
+🗂️ Projects & Grading
+Labs are for practice and not graded.
+
+Projects are graded and form the core of your coursework.
+
+You'll complete:
+
+✅ 7 Labs
+
+✅ 7 Projects
+
+✅ 1 Final Project
+
+📅 Due dates for projects will be shared on your course’s project page.
