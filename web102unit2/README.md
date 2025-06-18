@@ -26,8 +26,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Cards contain images in addition to or in place of text
-  - [ ] Some or all cards have images in place of or in addition to text
+- [x] Cards contain images in addition to or in place of text
+  - [x] Some or all cards have images in place of or in addition to text
 - [x] Cards have different visual styles such as color based on their category
     - Difficulty: Easy/medium/hard
 
