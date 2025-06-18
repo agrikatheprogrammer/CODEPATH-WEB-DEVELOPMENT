@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-function Card({question,answer,level}) {
+function Card({question,answer,level,image}) {
  const [showqs,setshowqs]=useState(true);
  function handleClick() {
     setshowqs(!showqs);
@@ -22,8 +22,17 @@ useEffect(()=>{
 },[question])
 thisone=getColorByLevel(level);
  return (
-    <div onClick={handleClick} style={{backgroundColor:thisone,height:"500px", width:"800px", display:"flex",justifyContent:"center",alignItems:"center"}}>
+    <div onClick={handleClick} style={{backgroundColor:thisone,height:"400px", width:"600px", display:"flex",justifyContent:"center",alignItems:"center"}}>
+      <div>
         <p style={{textAlign:"center"}}>{showqs?question:answer}</p>
+        {image && showqs && (
+         <img
+            src={image}
+            alt="card visual"
+            style={{ marginTop: "15px", maxWidth: "80%", height: "auto" }}
+         />
+         )}
+         </div>
     </div>
  );
 }

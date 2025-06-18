@@ -7,6 +7,12 @@ function App() {
   const [count, setCount] = useState(0)
 const myjson = [
   {
+    question: "What type of element will be rendered from the following code?",
+    image:"/images/qs.png",
+    answer: "h1",
+    level: "medium"
+  },
+  {
     question: "What is the correct command to create a new React project?",
     answer: "npx create-react-app myReactApp",
     level: "easy"
@@ -30,11 +36,6 @@ const myjson = [
     question: "To develop and run React code, Node.js is required.",
     answer: "True",
     level: "easy"
-  },
-  {
-    question: "What type of element will be rendered from the following code?\n\nfunction Car() {\n  return <h1>Ford Mustang</h1>;\n}\n\nconst root = createRoot(document.getElementById('root'));\nroot.render(<Car />);",
-    answer: "h1",
-    level: "medium"
   },
   {
     question: "What is the children prop?",
@@ -151,7 +152,7 @@ function handleBack() {
       <h1>The Ultimate React Trivia!</h1>
       <h2>How well do you know React? Test your knowledge here!</h2>
       <p>Total no. of cards: {myjson.length}</p>
-      <Card question={myjson[count].question} answer={myjson[count].answer} level={myjson[count].level}></Card>
+      <Card question={myjson[count].question} answer={myjson[count].answer} level={myjson[count].level} image={myjson[count].image}></Card>
       <div>
       <img src="/images/back.JPG" height="50px" width="50px" style={{ margin: '10px' }} onClick={handleBack} alt="Back" />
       <img src="/images/next.jpg" height="50px" width="50px" style={{ margin: '10px' }} onClick={handleNext} alt="Next" />
