@@ -88,7 +88,8 @@ const myjson = [
     level: "medium"
   },
   {
-    question: "How can you combine the following arrays using the spread operator?\n\nconst array1 = [1, 2, 3];\nconst array2 = [4, 5, 6];",
+    question: "How can you combine the following arrays using the spread operator?",
+    image:"/images/qs2.png",
     answer: "const combined = [...array1, ...array2];",
     level: "easy"
   },
@@ -103,7 +104,8 @@ const myjson = [
     level: "easy"
   },
   {
-    question: "Find the bug in this code:\n\nfunction car({make, model}) {\n  return <h1>{make} {model}</h1>;\n};",
+    question: "Find the bug in this code",
+    image:"/images/qs3.png",
     answer: "The first letter of the function must be capitalized",
     level: "medium"
   },
@@ -123,7 +125,8 @@ const myjson = [
     level: "difficult"
   },
   {
-    question: "What is the output of the following code?\n\nconst make = 'Ford';\nconst model = 'Mustang';\nconst car = { make, model };\nconsole.log(car);",
+    question: "What is the output of the following code?",
+    image:"/images/qs4.png",
     answer: "{make: 'Ford', model: 'Mustang'}",
     level: "medium"
   },
