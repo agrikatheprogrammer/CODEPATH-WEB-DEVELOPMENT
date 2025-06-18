@@ -29,9 +29,7 @@ The following **optional** features are implemented:
 - [ ] Cards contain images in addition to or in place of text
   - [ ] Some or all cards have images in place of or in addition to text
 - [x] Cards have different visual styles such as color based on their category
-  - Example categories you can use:
     - Difficulty: Easy/medium/hard
-    - Subject: Biology/Chemistry/Physics/Earth science
 
 The following **additional** features are implemented:
 
@@ -43,20 +41,15 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with OBS Studio and Ezgif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges encountered.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Codepath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
