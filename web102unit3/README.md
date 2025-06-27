@@ -1,10 +1,10 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *React Trivia Quiz*
 
-Submitted by: **Your Name Here**
+Submitted by: **Agrika Gupta**
 
-This web app: **insert description**
+This web app: **is a React-based trivia quiz that tests the user’s knowledge of React and JavaScript fundamentals by presenting questions on cards. Users enter their guesses, get immediate feedback, and can navigate through the cards**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -47,16 +47,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/agrikatheprogrammer/CODEPATH_WEB102/blob/main/web102unit3/web102unit3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with OBS Studio and Ezgif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+NIL.
 
 ## License
 
