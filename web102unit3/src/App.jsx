@@ -165,7 +165,7 @@ function App() {
     // reset color after 5 seconds
     setTimeout(() => {
       setFeedbackColor('');
-    }, 5000);
+    }, 3000);
   }
 
   return (
