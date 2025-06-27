@@ -4,7 +4,6 @@ function Card({question,answer,level,image}) {
  function handleClick() {
     setshowqs(!showqs);
  }
- var thisone;
  function getColorByLevel(level) {
   switch (level) {
     case "easy":
@@ -20,7 +19,7 @@ function Card({question,answer,level,image}) {
 useEffect(()=>{
    setshowqs(true)
 },[question])
-thisone=getColorByLevel(level);
+let thisone=getColorByLevel(level);
  return (
     <div onClick={handleClick} style={{backgroundColor:thisone,height:"400px", width:"600px", display:"flex",justifyContent:"center",alignItems:"center"}}>
       <div>
