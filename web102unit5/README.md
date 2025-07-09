@@ -2,7 +2,7 @@
 
 Submitted by: **Agrika Gupta**
 
-This web app: **insert description**
+This web app: **lets users discover random cat breeds, view their image and details, and ban specific breeds from appearing again.**
 
 Time spent: **3** hours spent in total
 
