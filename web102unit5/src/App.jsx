@@ -11,7 +11,7 @@ export default function App() {
 
   const fetchCat = async () => {
     let attempts = 0;
-    while (attempts < 100) {
+    while (attempts < 10) {
       const response = await fetch('https://api.thecatapi.com/v1/images/search?has_breeds=1',
         {
           headers: {
