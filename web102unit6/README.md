@@ -1,12 +1,78 @@
-# React + Vite
+# Web Development Project 5 - *Rick & Morty Character Dashboard*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Your Name Here**
 
-Currently, two official plugins are available:
+This web app: **Displays a searchable and filterable dashboard of Rick and Morty characters using data from the Rick and Morty public API. It includes a real-time search bar, a species filter, and dynamic summary statistics.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **5** hours spent in total
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The following **required** functionality is completed:
+
+- [x] **The site has a dashboard displaying a list of data fetched using an API call**
+  - The dashboard displays at least 10 unique items, one per row
+  - Each row includes at least two features: character name, species, and status
+- [x] **`useEffect` React hook and `async`/`await` are used**
+  - Data is fetched using `useEffect` and `async/await` from the Rick and Morty API
+- [x] **The app dashboard includes at least three summary statistics about the data** 
+  - Total number of characters retrieved
+  - Number of Human characters
+  - Number of Alien characters
+- [x] **A search bar allows the user to search for an item in the fetched data**
+  - The search bar filters characters by name
+  - The list of results dynamically updates as the user types
+- [x] **An additional filter allows the user to restrict displayed items by specified categories**
+  - A dropdown allows filtering by species
+  - The species filter works independently from the search bar
+  - The dashboard list dynamically updates as the user adjusts the filter
+
+## Optional Features
+
+The following **optional** features are implemented:
+
+- [ ] Multiple filters can be applied simultaneously
+- [ ] Filters use different input types (e.g., slider, radio buttons)
+- [ ] The user can enter specific bounds for filter values
+
+## Additional Features
+
+- [x] Responsive layout using Tailwind CSS classes
+- [x] Handles both search and filter at the same time
+- [ ] Add loading or error state (future enhancement)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ScreenToGif  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+- The main challenge was designing the filtering logic to handle both search and category filtering simultaneously while keeping performance smooth.
+- Learned how to use `Set` to extract unique values from data and how to dynamically generate a dropdown menu from it.
+
+## License
+
+```
+Copyright 2025 [Your Name]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
