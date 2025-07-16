@@ -1,6 +1,6 @@
 # Web Development Project 5 - *Rick & Morty Character Dashboard*
 
-Submitted by: **Your Name Here**
+Submitted by: **Agrika Gupta**
 
 This web app: **Displays a searchable and filterable dashboard of Rick and Morty characters using data from the Rick and Morty public API. It includes a real-time search bar, a species filter, and dynamic summary statistics.**
 
@@ -35,29 +35,14 @@ The following **optional** features are implemented:
 - [ ] Filters use different input types (e.g., slider, radio buttons)
 - [ ] The user can enter specific bounds for filter values
 
-## Additional Features
-
-- [x] Responsive layout using Tailwind CSS classes
-- [x] Handles both search and filter at the same time
-- [ ] Add loading or error state (future enhancement)
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with OBS Studio and Ezgif
 
-## Notes
-
-- The main challenge was designing the filtering logic to handle both search and category filtering simultaneously while keeping performance smooth.
-- Learned how to use `Set` to extract unique values from data and how to dynamically generate a dropdown menu from it.
 
 ## License
 
