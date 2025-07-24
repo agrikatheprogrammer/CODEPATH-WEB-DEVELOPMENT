@@ -1,0 +1,84 @@
+.dashboard-container {
+  display: flex;
+  padding: 20px;
+  gap: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.left-panel {
+  width: 65%;
+}
+
+.right-panel {
+  width: 35%;
+  max-height: 85vh;
+  overflow-y: auto;
+  border-left: 1px solid #ccc;
+  padding-left: 20px;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filters input,
+.filters select {
+  padding: 8px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.stats {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.stats div {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  flex: 1;
+}
+
+.charts {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.chart-box {
+  flex: 1;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-radius: 6px;
+  min-width: 300px;
+}
+
+.character-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.character-card {
+  border: 1px solid #ddd;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  background-color: #fafafa;
+}
+
+.char-name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.char-name:hover {
+  text-decoration: underline;
+}
