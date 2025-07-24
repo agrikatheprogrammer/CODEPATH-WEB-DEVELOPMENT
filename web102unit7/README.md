@@ -1,4 +1,4 @@
-# Web Development Project 6 - *Name of App Here*
+# Web Development Project 6 - *Rick & Morty Character Dashboard*
 
 Submitted by: **Agrika Gupta**
 
