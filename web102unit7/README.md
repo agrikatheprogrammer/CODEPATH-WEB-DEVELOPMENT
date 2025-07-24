@@ -2,7 +2,7 @@
 
 Submitted by: **Your Name Here**
 
-This web app: **insert description**
+This web app: **visualizes character data from the Rick and Morty API. It displays a list of characters along with key statistics and interactive charts. Users can search and filter characters, view species and status distributions via charts, and click on a character's name to access a detailed view with additional information.**
 
 Time spent: **4** hours spent in total
 
