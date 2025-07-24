@@ -1,6 +1,6 @@
 # Web Development Project 6 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Agrika Gupta**
 
 This web app: **visualizes character data from the Rick and Morty API. It displays a list of characters along with key statistics and interactive charts. Users can search and filter characters, view species and status distributions via charts, and click on a character's name to access a detailed view with additional information.**
 
