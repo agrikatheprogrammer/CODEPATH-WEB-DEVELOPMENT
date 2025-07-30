@@ -1,10 +1,10 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Crewmates*
 
-Submitted by: **Your Name Here**
+Submitted by: **Agrika Gupta**
 
-This web app: **insert description**
+This web app: **allows users to create and manage a team of custom crewmates. Each crewmate can be named and assigned specific attributes (such as color, role, or skill). Users can view all their crewmates in a summary gallery, edit or delete them, and view detailed information about each crewmate via a unique detail page. The app uses Supabase as a backend for storing data and provides full CRUD functionality.**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
