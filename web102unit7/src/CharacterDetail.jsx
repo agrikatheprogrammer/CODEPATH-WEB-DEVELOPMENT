@@ -14,7 +14,7 @@ export default function CharacterDetail() {
     fetchCharacter();
   }, [id]);
 
-  if (!character) return <div>Loading...</div>;
+  if (!character) return <div>Loading...</div>; // state changes re-render react components
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
