@@ -1,0 +1,16 @@
+.creator-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;   /* take full width of the grid cell */
+    height: 100%;  /* optional, only if you want equal height */
+    box-sizing: border-box;
+    border: 5px solid black;
+}
+
+.creator-card img {
+    height:400px;
+    width:250px;
+}

@@ -6,13 +6,13 @@ export default function Diary({date,month,year}) {
     }
     function getStartDay(year, month) {
     // JS months are 0-indexed, so January is 0
-    const date = new Date(year, month - 1, 1);
-    return date.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
+    const date1 = new Date(year, month - 1, 1);
+    return date1.getDay(); // 0 = Sunday, 1 = Monday, ..., 6 = Saturday
     }
     let currentDay=getStartDay(year,month)
     const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
     var days_in_month
-    if (isLeapYear(Number(year))) {
+    if (isLeapYear(year)) {
         days_in_month= {
             '1': 31,  // January
             '2': 29,  // February (leap year)
@@ -53,16 +53,24 @@ export default function Diary({date,month,year}) {
         count++
     }
     for (let i=1;i<=days_in_month[month];i++) {
-        if (i==Number(date)) {
+        if (i==date) {
             cells.push(<div className="highlighted">{i}</div>)
         } else {
             cells.push(<div>{i}</div>)}
     }
     return (
         <>
+        <h1>{date}-{month}-{year}</h1>
+        <div className="box">
             <div className="diary">
                 {cells}
             </div>
+            <div className="notebook">
+                <div className="page" contentEditable="true">
+                Start writing here...
+                </div>
+            </div>
+        </div>
         </>
     )
 }
