@@ -10,7 +10,6 @@ Time spent: **10** hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -34,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://github.com/agrikatheprogrammer/CODEPATH_WEB102/blob/main/web103_prework/web103prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/CODEPATH_WEB102/blob/main/web103_prework/web103prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with OBS Studio and Ezgif
 
