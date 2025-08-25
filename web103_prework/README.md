@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://github.com/agrikatheprogrammer/CODEPATH_WEB102/blob/main/web103_prework/web103prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with OBS Studio and Ezgif
 
@@ -43,7 +43,7 @@ N/A
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [2025] [Codepath/Agrika Gupta]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
